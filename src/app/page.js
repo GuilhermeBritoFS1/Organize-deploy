@@ -96,7 +96,6 @@ export default function Home() {
             </h2>
             <div className="relative w-full h-64">
               <Image
-                fill
                 src="https://res.cloudinary.com/deaaxyebk/image/upload/v1749495499/postit2_f8ekjb.png"
                 alt="Post-it"
                 className="absolute inset-0 w-full h-full object-cover shadow-lg"
