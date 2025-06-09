@@ -36,6 +36,7 @@ export default function NotFound() {
           src="/postit_error.png"
           alt="Post-it"
           className="mt-8 w-64 h-auto"
+          fill
         />
       </div>
     </main>

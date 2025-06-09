@@ -58,7 +58,7 @@ export default function TaskCompleted() {
       }`}
     >
       <div className="flex flex-col items-center text-center w-full max-w-6xl p-4">
-        <Image src="/logo.png" alt="Logo" className="mb-4 w-32 sm:w-40 h-auto" />
+        <Image src="/logo.png" alt="Logo" className="mb-4 w-32 sm:w-40 h-auto" fill/>
         <h1 className="text-3xl sm:text-5xl font-bold mb-6  text-slate-500">
           Tarefas Concluídas
         </h1>
@@ -81,6 +81,7 @@ export default function TaskCompleted() {
                   src="/postit2.png"
                   alt="Post-it"
                   className="w-full h-full object-cover shadow-lg rounded-lg"
+                  fill
                 />
                 <div className="absolute inset-0 flex flex-col items-center justify-center p-3">
                   <h2 className="text-lg font-bold text-center">

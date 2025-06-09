@@ -117,6 +117,7 @@ export default function Teams() {
                   src="/postit2.png"
                   alt="Post-it"
                   className="w-full h-full object-cover shadow-lg rounded-lg"
+                  fill
                 />
                 <div className="absolute inset-0 flex flex-col p-3 overflow-y-auto">
                   <h2 className="text-lg font-bold text-center mb-2">

@@ -76,6 +76,7 @@ export default function Home() {
             </h2>
             <div className="relative w-full h-64">
               <Image
+                fill
                 src="postit2.png"
                 alt="Post-it"
                 className="absolute inset-0 w-full h-full object-cover shadow-lg"
@@ -96,6 +97,7 @@ export default function Home() {
             </h2>
             <div className="relative w-full h-64">
               <Image
+                fill
                 src="postit2.png"
                 alt="Post-it"
                 className="absolute inset-0 w-full h-full object-cover shadow-lg"

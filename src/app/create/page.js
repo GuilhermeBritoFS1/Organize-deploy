@@ -104,6 +104,7 @@ export default function Create() {
               src="/logo.png"
               alt="Logo OrgaNize"
               className="mb-4 w-50 h-auto"
+              fill
             />
             <h1 className="text-6xl font-bold mb-4 text-center text-slate-500">
               OrgaNize
