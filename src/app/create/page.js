@@ -101,7 +101,7 @@ export default function Create() {
         <div className="bg-gradient-to-r from-amber-400 to-gray-3500 flex flex-col items-center justify-center text-center mx-auto sm:w-full md:w-1/2 rounded-l-lg">
           <div className="flex flex-col justify-center items-center px-4 py-6">
             <Image
-              src="https://github.com/guilhermebrito123/Organize-deploy/blob/main/public/Logo.png"
+              src="https://console.cloudinary.com/app/c-8430c9182febb75f8c5d5c8e148d56/assets/media_library/homepage/asset/863231cda11aad06160808a4d3173a31/manage/summary?context=manage"
               alt="Logo OrgaNize"
               className="mb-4 w-50 h-auto"
               fill
