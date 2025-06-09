@@ -55,7 +55,7 @@ export function Sidebar() {
                 alt="Logo do Projeto"
                 className="h-10 w-10"
               />
-              <span className="sr-only">Logo do Projeto</span>
+              <span className="sr-only">Logo do Projeto Organize</span>
             </Link>
           </TooltipProvider>
 
